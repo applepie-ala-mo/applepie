@@ -1,2 +1,3 @@
 # applepie
-Apple Pie is a language created by User:Cortex which is designed to be extremely difficult to read and write code in. Its file format is .pie. 
+Source for code: https://esolangs.org/wiki/Apple_Pie 
+From Esolangs Wiki Page: "Apple Pie is a language created by User:Cortex, which is designed to be extremely difficult to read and write code in. Its file format is .pie. The command names are often either 1 letter or gibberish, and the letter that terminates commands varies depending on the command before it (Specifically, the letter 9 places after its last letter in the alphabet. If it goes above Z, it wraps back around to A. So to terminate an R command, you would add "A". Also, you must put a space before the terminating character.) To further prevent code from being readable, a newline is a command that prints the program's source code, but also deletes anything else printed. As such, any code with a newline is a quine. Commands are case sensitive."
